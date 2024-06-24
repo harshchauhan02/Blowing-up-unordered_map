@@ -24,3 +24,6 @@ int main() {
     insert_numbers(107897);
     insert_numbers(126271);
 }
+
+//Depending on your compiler version, one of these primes will cause a significant slowdown.
+// Run the code below in Custom Invocation (Codeforces) and see what output you get.
